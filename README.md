@@ -8,10 +8,12 @@ Falini, A., Tamborrino, C., Castellano, G., Mazzia, F., Mininni, R. M., Appice, 
 also a new measure based on the Pearson correlation coefficient is adopted.
 Successive binarization techniques are used in a novel formulation and are proven to be robust, with respect to the different scenarios produced by the chosen measure. Moreover, it is  fully automatic.
 
-The method has been tried on the following three datasets:
+The method has been tested on the following datasets:
 
 -Hermiston, https://gitlab.citius.usc.es/hiperespectral/ChangeDetectionDataset/-/tree/master/Hermiston
 
 -USA, https://rslab.ut.ac.ir/documents/81960329/82034892/Hyperspectral_Change_Datasets.zip
 
 -River, http://crabwq.github.io
+
+-Bay Area, https://gitlab.citius.usc.es/hiperespectral/ChangeDetectionDataset/-/tree/master/bayArea
